@@ -22,9 +22,9 @@ This is a simple Student Management System built using Flask and SQLite. It allo
 2. Run the app:
    python app.py
 
-3. Open browser:
-   http://127.0.0.1:5000
-
+3. Open in browser after running locally:
+http://127.0.0.1:5000 (runs only on local machine)
+Note: This project runs locally on your system. Please clone the repository and run it to view the application.
 ## 📂 Project Structure
 - app.py → Backend logic
 - templates → HTML files
